@@ -1,0 +1,5 @@
+id,name,age,email,phone
+1,John Doe,25,johndoe@example.com,123-456-7890
+2,Jane Smith,32,janesmith@example.com,987-654-3210
+3,Mark Johnson,,markjohnson@example.com,
+4,Lisa Brown,40,,345-678-9012
